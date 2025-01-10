@@ -1,0 +1,121 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1400px;
+    background-color:white;
+   margin-left: 90px;
+    opacity: 100%;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.sign {
+width: 116px;
+height: 50px;
+color: #006A50 ;
+padding: 10px;
+padding-top:10px;
+text-align: center;
+border-radius: 10px;
+/* font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f4f4f4; */
+}
+.banner{
+   display: flex; 
+   justify-content: space-between;
+   background-color:#C6E4D6;
+   height: 560px;
+   width: 1450PX;
+   align-items: center;
+   margin: 0 auto;
+   border-radius: 20px;
+}
+.btn{
+  background-color: #006A50;  
+  height: 56px;
+  width: 270px;
+  border-radius: 20px;
+  color: #C6E4D6;
+
+}
+.image{
+    height:300px;
+    width:800 px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+}
+.head{
+    margin-left:50px;
+    margin-bottom: 10px;
+}
+.card-main{
+    display: flex;
+    
+    justify-content: center;
+    row-gap: 50px;
+    margin-bottom: 50pxpx;
+}
+.sec-2{
+    
+    width: 1450px;
+    margin: 0 auto;
+}
+.card-1{
+    background-color:#bbd4ff;
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    padding: 26px;
+    width: 450px;
+}
+.card-2{
+ background-color: #C6E4D6;
+ margin-top: 20px;
+ margin-right: 20px;
+ border-radius: 20px;
+ padding: 26PX;
+ width: 450px;
+
+}
+.card-3{
+background-color: #F7EBCF;
+margin-top: 20px;
+
+border-radius: 20px;
+padding: 26px;
+width: 450px;
+}
+.btn-2{
+    background-color:#5490F5 ;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #bbd4f5;
+    font-size: 13px;
+    font-weight: 500px;
+}
+.btn-3{
+    background-color:#09A15C;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #C6E4D6;
+    font-size: 13px;
+    font-weight: 500px;
+}
+.btn-4{
+    background-color: #FFC239 ;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #F7EBCF;
+    font-size: 13px;
+    font-weight: 500px;
+}
+.head-1{
+    font-size: 30px;
+}
