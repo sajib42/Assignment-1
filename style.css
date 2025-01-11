@@ -1,12 +1,14 @@
+
 .nav{
     display: flex;
     justify-content: space-between;
     width: 1400px;
-    background-color:white;
-   margin-left: 90px;
+   
+    margin-left: 90px;
     opacity: 100%;
-    margin-bottom: 30px;
-    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 35px;
+   
 }
 .sign {
 width: 116px;
@@ -33,13 +35,19 @@ border-radius: 10px;
    align-items: center;
    margin: 0 auto;
    border-radius: 20px;
+   font-size: x-large;
+   font-family: serif;
+}
+.bd1{
+    font-size: large;
 }
 .btn{
   background-color: #006A50;  
   height: 56px;
   width: 270px;
-  border-radius: 20px;
+  border-radius: 15px;
   color: #C6E4D6;
+  font-size: smaller;
 
 }
 .image{
@@ -150,8 +158,121 @@ main{
     padding: 13px 25px;
     border-radius: 10px;
     font-weight: 500px;
-    border-color: #006A50;
-
-    
+    border-color: #006A50; 
   
+}
+/* 4th sec */
+.dnate-sec{
+    width: 1450px;
+    margin: 0 auto;
+}
+.btn-last{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    /* background-color: #09A15C; */
+}
+.donate{
+    text-align: center;
+    font-size: x-large;
+}
+.btn-last1{
+/* color:black;
+background-color:#FFFFFF;
+height: 40px;
+width: 170;
+border-radius: 20px; */
+background-color:#FFFFFF ;
+color: black;
+padding: 13px 25px;
+border-radius: 10px;
+font-weight: 500px;
+border-color: #006A50; 
+
+}
+.btn-last2{
+    background-color:#C6E4D6 ;
+    color: black;
+    padding: 13px 25px;
+    border-radius: 10px;
+    font-weight: 500px;
+    border-color: #006A50; 
+}
+.btn-last3{
+    background-color: #FFFFFF ;
+    color:black;
+    padding: 13px 25px;
+    border-radius: 10px;
+    font-weight: 500px;
+    border-color: #006A50; 
+}
+.btn-last4{
+    background-color: #FFFFFF;
+    color: black;
+    padding: 13px 25px;
+    border-radius: 10px;
+    font-weight: 500px;
+    border-color: #006A50; 
+}
+.pera-last1{
+    text-align: center;
+}
+.input{
+    width:1420px;
+    padding: 16px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.input-container{
+width: 1450px;
+margin: 0 auto;
+}
+.btn-last5{
+    background-color: #006A50;
+    color: white;
+    padding: 13px 25px;
+    border-radius: 10px;
+    font-weight: 500;
+    font: bold;
+    border-color: #006A50; 
+    margin-top: 26px; 
+   
+ 
+}
+.last-btn11{
+    width: 150px;
+    margin: 0% auto;
+ 
+}
+/* suscribe section */
+.subscribe-section{
+    width: 1450px;
+    height:260px;
+    background-color:#C6E4D6 ;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 25px;
+    font-size: x-large;
+}
+.footer{
+ display: flex;
+ width: 150px;
+ margin: 0 auto;
+ gap: 14px;
+ padding: 15px;
+}
+.last-head{
+text-align: center;
+}
+/* main 4th sec  */
+.sec-4{
+    width: 1420px;
+    margin: 0 auto;
+    background-color:#FFFFFF;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
 }
