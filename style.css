@@ -59,10 +59,17 @@ border-radius: 10px;
     row-gap: 50px;
     margin-bottom: 50pxpx;
 }
+/* section-design */
 .sec-2{
     
     width: 1450px;
     margin: 0 auto;
+
+}
+.sec-3{
+    width: 1450px;
+    margin: 0 auto;
+   
 }
 .card-1{
     background-color:#bbd4ff;
@@ -118,4 +125,33 @@ width: 450px;
 }
 .head-1{
     font-size: 30px;
+}
+.recent-news{
+    display: flex;
+    gap: 30px;
+    border: 30px;
+    background-color:#FFFFFF;
+    border-radius: 20px;
+    box-shadow: black;
+    padding: 40px;
+    margin-top: 30px;
+}
+main{
+  background-color: #F1F1F3;  
+}
+.img-1{
+    border: 20px;
+    border-radius: 30px;
+   
+}
+.btn-5{
+    background-color:#006A50 ;
+    color: #FFFFFF;
+    padding: 13px 25px;
+    border-radius: 10px;
+    font-weight: 500px;
+    border-color: #006A50;
+
+    
+  
 }
